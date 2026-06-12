@@ -12,8 +12,11 @@ Over 1000 entries for Windows is provided.
 It operates on a Linux system.
 
 Contained here is an installation script (install) and three directories:
+
  html    contains web pages and images for the application
+ 
  cgi-bin contains the application script and supporting files
+ 
  tools   contains various script written during the build of this application.
          and the last audits dor Windows 10 and Windows 11.
          There are also some other tools that may be of use.
