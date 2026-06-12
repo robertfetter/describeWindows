@@ -4,15 +4,15 @@ Browser-based description of Windows executables/tasks
 This is the installation package for the Windows Describe Executables/Tasks
 (describeWindows) web browser based application.
 
-This application is written in Linux bash and Python 3.
+This application is written in Linux bash and Python 3. It operates as a cgi-bin on an Apache web server.
 
-Support is provided for both Windows 10 and Windows 11.
+Support is provided for both Windows 10 and Windows 11. 
 Over 1000 entries for Windows is provided.
 
-It operates on a Linux system.
+It operates on a Linux system. It can access Windows systems running in Virtualbox using ssh.
 
 Contained here is an installation script (install) and three directories:
-
+ 
  html    contains web pages and images for the application
  
  cgi-bin contains the application script and supporting files
