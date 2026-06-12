@@ -18,7 +18,7 @@ Contained here is an installation script (install) and three directories:
  cgi-bin contains the application script and supporting files
  
  tools   contains various script written during the build of this application.
-         and the last audits dor Windows 10 and Windows 11.
+         and the last audits for Windows 10 and Windows 11.
          There are also some other tools that may be of use.
 
 The installation script needs to be run as 'root'.
