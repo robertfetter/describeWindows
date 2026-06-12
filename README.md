@@ -9,7 +9,7 @@ This application is written in Linux bash and Python 3. It operates as a cgi-bin
 Support is provided for both Windows 10 and Windows 11. 
 Over 1000 entries for Windows is provided.
 
-It operates on a Linux system. It can, but does not have to, access Windows systems running in Virtualbox using ssh.
+It operates on a Linux system. It can,  but does not have to, access Windows systems running in Virtualbox using ssh.
 
 Contained here is an installation script (install) and three directories:
  
