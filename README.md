@@ -34,5 +34,5 @@ Refer to the Help provided with the application for more information.
 
 A limited copy of the help (links do not work) is here:
 
-"https://robertfetter.github.io/describeWindows/help/HELP- describeWindows.html"
+https://robertfetter.github.io/describeWindows/help/describeWindows.html
 
