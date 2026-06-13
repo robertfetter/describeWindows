@@ -4,7 +4,7 @@ Browser-based description of Windows executables/tasks
 This is the installation package for the Windows Describe Executables/Tasks
 (describeWindows) web browser based application.
 
-To install download describeWindows.tar.gz and expand on your sytem.
+To install download describeWindows.tar.gz and expand on your sytem. Run the install script.
 
 This application is written in Linux bash and Python 3. It operates as a cgi-bin on an Apache web server.
 
