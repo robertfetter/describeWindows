@@ -4,6 +4,8 @@ Browser-based description of Windows executables/tasks
 This is the installation package for the Windows Describe Executables/Tasks
 (describeWindows) web browser based application.
 
+To install download describeWindows.tar.gz and expand on your sytem.
+
 This application is written in Linux bash and Python 3. It operates as a cgi-bin on an Apache web server.
 
 Support is provided for both Windows 10 and Windows 11. 
@@ -29,4 +31,9 @@ The URL to run the application in stand-alone mode is:
   http://localhost/cgi-bin/describeWindows
 
 Refer to the Help provided with the application for more information.
+
+A limited copy of the help (links do not work) is here:
+
+https://robertfetter.github.io/describeWindows/help/HELP - describeWindows.html
+
 
