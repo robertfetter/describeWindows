@@ -32,7 +32,7 @@ The URL to run the application in stand-alone mode is:
 
 Refer to the Help provided with the application for more information.
 
-A limited copy of the help (external links do not work) is here:
+A limited copy of the help (many links do not work) is here:
 
 https://robertfetter.github.io/describeWindows/help/describeWindows.html
 
